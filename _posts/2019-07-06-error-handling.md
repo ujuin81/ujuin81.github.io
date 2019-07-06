@@ -4,8 +4,6 @@ layout: post
 tags: [spring boot, reference]
 ---
 
-> https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/#boot-features-error-handling 
-
 # Spring Boot 의 Error Handling Reference 
 
 > 원본 Reference Url : https://docs.spring.io/spring-boot/docs/2.1.4.RELEASE/reference/htmlsingle/#boot-features-error-handling
